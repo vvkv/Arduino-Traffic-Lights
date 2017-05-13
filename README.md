@@ -1,2 +1,2 @@
 # Arduino-Traffic-Lights
-This project is a beginner level arduino project where I have coded LEDs to behave as traffic lights.
+In this project I program the microcontroller to emulate the traffic lights by controlling the sequence in which they are turned on and off
